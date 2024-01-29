@@ -38,8 +38,3 @@ To use the AI Data Assistant:
 3. Set up your OpenAI API key as specified in the documentation.
 4. Run the Streamlit application using `streamlit run your_app_file.py`.
 
-Enjoy a seamless and efficient Exploratory Data Analysis experience with the AI Data Assistant!
-
-## Keywords
-
-Data Science, Exploratory Data Analysis, Machine Learning, OpenAI, LangChain, Data Visualization.
