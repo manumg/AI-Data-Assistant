@@ -1,7 +1,7 @@
 # AI Data Assistant
 
 ## Overview
-The AI Data Assistant is an intelligent tool designed to help you thorugh your Exploratory Data Analysis (EDA) processand suggest the best ML algorithms based on your business problem. By leveraging the power of OpenAI and LangChain, the assistant assists you in gaining valuable insights into your data, helping you make informed decisions in your data science projects.
+The AI Data Assistant is an intelligent tool designed to help you through your Exploratory Data Analysis (EDA) process and suggest the best ML algorithms based on your business problem. By leveraging the power of OpenAI and LangChain, the assistant helps you in gaining valuable insights into your data, helping you make informed decisions in your data science projects.
 
 ## How it Works
 
