@@ -1,0 +1,9 @@
+numpy
+openai
+pandas
+python-dotenv
+seaborn
+streamlit
+langchain
+langchain-community
+langchain-experimental
